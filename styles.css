@@ -1,0 +1,33 @@
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background-color: navy;
+  padding: 20px;
+}
+.mainContent {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.userInput {
+  text-align: center;
+}
+
+.moneyInput {
+  text-align: center;
+  padding-top: 20px;
+}
